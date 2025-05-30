@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://online.pw3dk.com/" target="_blank">
-    <img src="COSTTA_banner.png" alt="COSTTA" />
-  </a>
-</p>
+
 
 <h1 align="center">COSTTA</h1>
 <p align="center">Software Engineer & Creator of <a href="https://online.pw3dk.com/">online.pw3dk.com</a></p>
